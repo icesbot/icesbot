@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = $_ENV['BOT_TOKEN'];
+$config['botToken'] = $_ENV['5418707547:AAEu0cvMIp44ESW14sOXMJ8G9hLoAsj8Wwg'];
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ $config['botToken'] = $_ENV['BOT_TOKEN'];
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = $_ENV['ADMIN_ID'];
+$config['adminID'] = $_ENV['5418707547'];
 
 /*
 |--------------------------------------------------------------------------
@@ -52,10 +52,10 @@ $config['timeZone'] =  $_ENV['TIMEZONE'];
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  $_ENV['DB_HOST'];
-$config['db']['username'] =  $_ENV['DB_USERNAME'];
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
-$config['db']['database'] =  $_ENV['DB_NAME'];
+$config['db']['hostname'] =  $_ENV['18.116.11.252'];
+$config['db']['username'] =  $_ENV['root'];
+$config['db']['password'] =  $_ENV['dNiLlNLT*iBTY$R!$luQDK)DR%?PG5hJ'];
+$config['db']['database'] =  $_ENV['checkerbot'];
 
 /*
 |--------------------------------------------------------------------------
@@ -66,7 +66,7 @@ $config['db']['database'] =  $_ENV['DB_NAME'];
 | Value is in Seconds. "20" = 20seconds
 |
 */
-$config['anti_spam_timer'] =  $_ENV['ANTISPAM_TIMER'];
+$config['anti_spam_timer'] =  $_ENV['30'];
 
 /*
 |--------------------------------------------------------------------------
@@ -78,5 +78,5 @@ $config['anti_spam_timer'] =  $_ENV['ANTISPAM_TIMER'];
 | array('sk1','sk2','sk3')
 |
 */
-$config['sk_keys'] =  explode(",", $_ENV['SK_KEYS']);
+$config['sk_keys'] =  explode(",", $_ENV['sk_live_EGMmkkUm7tjUuhRFSs27JS2m00nMp1hwHc']);
 ?>
